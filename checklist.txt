@@ -1,0 +1,6 @@
+what a real to-do-list programm should be able to do? 
+    1) Adding tasks (done)
+    2) marking done tasks (will be done)
+    3) deleting tasks (will be done)
+    4) selecting tasks (will be done)
+    5) creating a folders with tasks (will be done)
